@@ -1,0 +1,9 @@
+- name: Bitcoin Core Contributions
+  description: At the start of 2022 I became interested in Bitcoin Core development and started making small contributions
+  link: https://github.com/bitcoin/bitcoin/pulls?q=+is%3Apr+author%3Aishaanam+
+- name: Descriptor Parser
+  description: A light-weight, simple descriptor parser I wrote in C++.
+  link: https://github.com/ishaanam/descriptors
+- name: Testnet Bitcoin Wallet
+  description: A wallet I wrote to learn about how wallets work.
+  link: https://github.com/ishaanam/testnet_bitcoin_wallet

@@ -1,0 +1,9 @@
+- name: Cypherpunks and the Battle For Privacy
+  description: A brief history of the cypherpunks and the key role cryptography plays in maintaining our privacy.
+  link: https://www.stuyspec.com/science/cypherpunks-and-the-battle-for-privacy
+- name: Bitcoin Always Had Smart Contracts
+  description: An article I wrote when I was first learning about the Bitcoin Script language
+  link: https://ishaana-misra.medium.com/bitcoin-always-had-smart-contracts-script-part-1-c84ca4739758
+- name: How Bitcoin Wallets Work
+  description: A summary of a presentation I gave at GenB
+  link: https://twitter.com/IshaanaMisra/status/1537539567959556097

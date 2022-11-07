@@ -1,0 +1,6 @@
+title: Ishaana
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+sass:
+  sass_dir: assets/css
