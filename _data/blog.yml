@@ -1,8 +1,4 @@
-- name: Article One
-  description: A very descriptive description
+- name: A Deep Dive Into Nonce-Reuse During Bitcoin Transaction Creation, Part 1
+  description: An introduction to the work I have been doing regarding nonce reuse.
   link: nonce_reuse
-  date: January 3rd, 2008
-- name: Article Two
-  description: A very descriptive description
-  link: /
-  date: January 3rd, 2008
+  date: 02/12/2023

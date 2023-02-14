@@ -14,25 +14,11 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <main id="content" class="main-content" role="main">
-        <h1 class="page-title">Articles</h1>
-        <br>
-        <ul class="list-group list-group-flush">
-        {% for item in site.data.blog %}
-              <a href="{{ item.link }}" style="text-decoration: none;">
-                  <li class="list-group-item list-group-item-action">
-                      <small>{{ item.date }}</small>
-                      <div class="d-flex w-100 justify-content-between">
-                          <h3>{{ item.name }}</h2>
-                      </div>
-                      <p>{{ item.description }}</p>
-                  </li>
-              </a>
-        {% endfor %}
-        </ul>
-
+      <h1 class="page-title">{{ page.title }}</h1>
+      <br>
+        {{ content }}
+      </div>
       <footer class="site-footer">
       </footer>
     </main>
