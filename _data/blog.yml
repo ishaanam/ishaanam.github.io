@@ -1,3 +1,7 @@
+- name: "Wallet Fingerprints: Detection & Analysis"
+  description: My research on fingerprints present in various wallets.
+  link: wallet_fingerprinting
+  date: 10/9/2023
 - name: A Deep Dive Into Nonce-Reuse During Bitcoin Transaction Creation, Part 1
   description: An introduction to the work I have been doing regarding nonce reuse.
   link: nonce_reuse
