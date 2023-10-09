@@ -3,6 +3,15 @@ layout: post
 title: "Wallet Fingerprints: Detection & Analysis"
 date: 10/9/2023
 ---
+
+#### Table of Contents
+1. [Background](#background)
+2. [Methodology](#methodology)
+3. [Results](#results)
+4. [Conclusions](#conclusions)
+
+---
+
 This summer, I worked on identifying fingerprints in Bitcoin transactions, and automating their detection. By implementing a few heuristics, I was able to guess the originating wallet for about 50% of recent transactions. A wallet fingerprint is an aspect of a broadcasted Bitcoin transaction that can aid in identifying the wallet used to create that transaction. Identifying the wallet that created a transaction could ultimately lead to learning private information about the creator of a transaction. For example, if someone is using Trezor, they are more likely to have a substantial amount of Bitcoin compared to someone using a hot wallet, making them a more promising hacking target. 
 <br>
 <br>
