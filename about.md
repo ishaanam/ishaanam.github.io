@@ -7,6 +7,8 @@ I am a student at Stuyvesant High School in New York and I'm interested in compu
 
 GitHub: [ishaanam](https://github.com/ishaanam/)
 
+Twitch: [ishaanam](https://www.twitch.tv/ishaanam)
+
 Twitter: [IshaanaMisra](https://twitter.com/IshaanaMisra)
 
 Email: [ishaana@genbitcoin.org](mailto:ishaana@genbitcoin.org)
