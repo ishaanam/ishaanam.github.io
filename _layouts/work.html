@@ -19,6 +19,18 @@
     <main id="content" class="main-content" role="main">
         <br>
         <ul class="list-group list-group-flush">
+        <h1> Articles </h1>
+        {% for item in site.data.blog %}
+              <a href="blog/{{ item.link }}" style="text-decoration: none;">
+                  <li class="list-group-item list-group-item-action">
+                      <div class="d-flex w-100 justify-content-between">
+                          <h3>{{ item.name }}</h3>
+                          <small>{{ item.type }}</small>
+                      </div>
+                      <p>{{ item.description }}</p>
+                  </li>
+              </a>
+        {% endfor %}
         <h1> GitHub </h1>
         {% for item in site.data.github %}
               <a href="{{ item.link }}" style="text-decoration: none;">
