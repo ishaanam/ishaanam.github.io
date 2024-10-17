@@ -19,7 +19,7 @@
     <main id="content" class="main-content" role="main">
         <br>
         <ul class="list-group list-group-flush">
-        <h1> Articles </h1>
+        <h1> Blog Posts </h1>
         {% for item in site.data.blog %}
               <a href="blog/{{ item.link }}" style="text-decoration: none;">
                   <li class="list-group-item list-group-item-action">
@@ -31,7 +31,7 @@
                   </li>
               </a>
         {% endfor %}
-        <h1> GitHub </h1>
+        <h1> Code </h1>
         {% for item in site.data.github %}
               <a href="{{ item.link }}" style="text-decoration: none;">
                   <li class="list-group-item list-group-item-action">
@@ -43,7 +43,7 @@
                   </li>
               </a>
         {% endfor %}
-        <h1> YouTube </h1>
+        <h1> Presentations </h1>
         {% for item in site.data.youtube %}
               <a href="{{ item.link }}" style="text-decoration: none;">
                   <li class="list-group-item list-group-item-action">
@@ -55,7 +55,7 @@
                   </li>
               </a>
         {% endfor %}
-        <h1> Other </h1>
+        <h1> Articles </h1>
         {% for item in site.data.other %}
               <a href="{{ item.link }}" style="text-decoration: none;">
                   <li class="list-group-item list-group-item-action">
