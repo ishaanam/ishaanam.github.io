@@ -9,6 +9,8 @@ date: 10/9/2023
 2. [Methodology](#methodology)
 3. [Results](#results)
 4. [Conclusions](#conclusions)
+5. [Appendix A](#appendix-a)
+5. [Appendix B](#appendix-b)
 
 ---
 
