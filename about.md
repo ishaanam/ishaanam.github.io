@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-I am an undergraduate student at MIT and I'm interested in computer science and cryptography. I contribute to [Bitcoin Core](https://github.com/bitcoin/bitcoin). I was previously a student researcher at the [MIT Digital Currency Initiative](https://dci.mit.edu/people#:~:text=Ishaana%20Misra). I also co-founded [Generation Bitcoin](http://twitter.com/GenBitcoiners).
+I am an undergraduate student at MIT and I'm interested in computer science and cryptography. I contribute to [Bitcoin Core](https://github.com/bitcoin/bitcoin) and am the recipient of the 2025 [Bitcoin Scholarship](https://bitcoinscholarship.xyz/). I was previously a student researcher at the [MIT Digital Currency Initiative](https://dci.mit.edu/people#:~:text=Ishaana%20Misra). I also co-founded [Generation Bitcoin](http://twitter.com/GenBitcoiners).
 
 GitHub: [ishaanam](https://github.com/ishaanam/)
 
