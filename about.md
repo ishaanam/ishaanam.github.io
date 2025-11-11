@@ -7,8 +7,6 @@ I am an undergraduate student at MIT and I'm interested in computer science and 
 
 GitHub: [ishaanam](https://github.com/ishaanam/)
 
-Twitch: [ishaanam](https://www.twitch.tv/ishaanam)
-
 Twitter: [IshaanaMisra](https://twitter.com/IshaanaMisra)
 
 Medium: [ishaana-misra](https://ishaana-misra.medium.com/)
